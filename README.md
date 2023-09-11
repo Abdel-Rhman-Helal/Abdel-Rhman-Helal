@@ -18,3 +18,5 @@
 
 ### Connect with Me :
  <a href="http://t.me/Abdel_Rhman_Helal" target="_blank"><img src="https://img.shields.io/badge/-Abdel%20rhman%20Helal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+  <a href="https://www.linkedin.com/in/abdel-rhman-helal-a44875233" target="_blank"><img src="https://img.shields.io/badge/-Abdel%20rhman%20Helal-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
