@@ -28,8 +28,6 @@ I'm a **Computer and Systems Engineering** graduate from **Helwan University**. 
 
 #### Frameworks & Libraries
 ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
