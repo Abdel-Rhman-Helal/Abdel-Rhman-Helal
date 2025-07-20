@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D4FF¢er=true&vCenter=true&width=500&lines=Welcome+to+Abdelrhman's+GitHub!+%F0%9F%9A%80;Embedded+Systems+%26+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D4FF¢er=true&vCenter=true&width=500&lines=Welcome+to+Abdelrhman's+GitHub!+%F0%9F%9A%80;Software+Engineer" alt="Typing SVG" />
 </div>
 
 ---
@@ -45,5 +45,4 @@ I'm a **Computer and Systems Engineering** graduate from **Helwan University**. 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdel-Rhman-Helal&color=blue" alt="Profile Views"/>
-  <p>Thanks for stopping by! Let's code something great together! 🚀</p>
 </div>
